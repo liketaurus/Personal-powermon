@@ -1,0 +1,1 @@
+pyinstaller --noconsole --onefile --add-data "static;static" --name "PowerMonitor" desktop.py
