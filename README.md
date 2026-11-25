@@ -2,7 +2,7 @@
 
 ![Created with Gemini](https://img.shields.io/badge/Created%20with-Gemini-8E75B2?style=for-the-badge)
 
-**Проєкт створено з допомогою Gemini.**
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini" height="20" /> **Проєкт створено з допомогою Gemini.**
 
 Простий монітор графіків погодинних відключень для Полтави, створений для власних потреб і налаштований на чергу **1.1**. Доступні вебінтерфейс і десктопна версія для Windows.
 
