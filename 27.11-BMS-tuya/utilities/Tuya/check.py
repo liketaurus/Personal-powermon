@@ -3,12 +3,12 @@ import tinytuya
 
 c = tinytuya.Cloud(
     apiRegion="eu",
-    apiKey="caxvvqpmmqe3pac7awj3",
-    apiSecret="18fc2da9326c42289acba34b7693d5da",
-    apiDeviceID="bf58c819facd06078dwi5x",
+    apiKey="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    apiSecret="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    apiDeviceID="xxxxxxxxxxxxxxxxxxxxxxxxxxxx",
 )
 
-res = c.getstatus("bf58c819facd06078dwi5x")
+res = c.getstatus("xxxxxxxxxxxxxxxxxxxxxxxxxxxx")
 data = {item["code"]: item["value"] for item in res.get("result", [])}
 
 # Перетворення у зручний формат
