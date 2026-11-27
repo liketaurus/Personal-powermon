@@ -1,0 +1,10 @@
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+gunicorn==23.0.0
+httpx==0.28.0
+beautifulsoup4==4.12.3
+tzdata==2024.2
+bleak>=0.22.3
+tinytuya>=1.14.0
+pywebview>=5.3
+pyinstaller>=6.11.0
